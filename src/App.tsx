@@ -1,10 +1,7 @@
 function App() {
   const name = "masud";
   const brother = "brother";
-  const brother = "brother 2";
-
-  function fff() {}
-  sdfj();
+  const unused = "hello brother";
 
   return (
     <div>
