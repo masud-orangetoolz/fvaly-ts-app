@@ -5,6 +5,8 @@ function App() {
   fsdaf;
   +fsdf;
 
+  function fff() {}
+
   return (
     <div>
       <h1>Hello, {name}</h1>
