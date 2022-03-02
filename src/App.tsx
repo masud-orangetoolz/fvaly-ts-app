@@ -4,6 +4,7 @@ function App() {
   const brother = "brother 2";
 
   function fff() {}
+  sdfj();
 
   return (
     <div>
