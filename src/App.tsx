@@ -1,7 +1,7 @@
 function App() {
   const name = "masud";
   const brother = "brother";
-
+  x;
   return (
     <div>
       <h1>Hello, {name}</h1>
