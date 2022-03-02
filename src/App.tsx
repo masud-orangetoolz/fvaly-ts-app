@@ -2,8 +2,6 @@ function App() {
   const name = "masud";
   const brother = "brother";
   const brother = "brother 2";
-  sdfadsjfs;
-  asdfjasdljf;
 
   function fff() {}
 
