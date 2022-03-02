@@ -59,7 +59,7 @@
     "pretty-quick": "^3.1.3"
   },
   "lint-staged": {
-    "*{.tsx,.ts}": "npx eslint \"**/*{.tsx,.ts}\" --fix",
+    "*.{tsx,ts}": "npx eslint --fix",
     "*.{ts,tsx,css,md}": "npx prettier --write . \"!**/*.{.json}\""
   }
 }
