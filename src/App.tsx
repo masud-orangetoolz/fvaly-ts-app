@@ -2,6 +2,7 @@ function App() {
   const name = "masud";
   const brother = "brother";
   f;
+  f;
   return (
     <div>
       <h1>Hello, {name}</h1>
