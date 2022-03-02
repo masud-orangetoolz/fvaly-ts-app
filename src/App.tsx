@@ -1,9 +1,8 @@
 function App() {
   const name = "masud";
-  const brother = "brother";
-  f;
-  f;
-  fsdasjfladsjlflj;
+  var brother = "brother";
+  var brother = "brother 2";
+
   return (
     <div>
       <h1>Hello, {name}</h1>
