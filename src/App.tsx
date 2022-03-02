@@ -1,7 +1,7 @@
 function App() {
   const name = "masud";
   const brother = "brother";
-  const unused = "hello brother";
+  var unused = "hello brother";
 
   return (
     <div>
