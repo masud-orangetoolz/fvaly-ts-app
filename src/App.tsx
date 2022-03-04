@@ -1,13 +1,13 @@
-function App() {
-  const name = "masud";
-  // const brother = "brother";
+import AppRoutes from "./routes/AppRoutes";
+import NavBar from "./components/Global/Common/NavBar";
 
+function App() {
   return (
-    <div>
-      <h1>Hello, {name}</h1>
-      <p>Congratulations for your success on typescript</p>
-      <p>Hope you are well {brother}</p>
-    </div>
+    <>
+      <AppRoutes>
+        <NavBar />
+      </AppRoutes>
+    </>
   );
 }
 
